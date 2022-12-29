@@ -20,5 +20,3 @@ print("jose \"lima\"")
 
 # r
 print(r"Luiz \"Otávio\"")
-
-Print('Python')
